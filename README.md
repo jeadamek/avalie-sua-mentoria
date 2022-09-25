@@ -2,7 +2,7 @@
    <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" />
 </div>
 
-<h3 align="center">🚀 Project 05 | Stage 03 - Explorer</h3>
+<h3 align="center">🚀 Project 06 | Stage 03 - Explorer</h3>
 
 <div align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jeadamek/avalie-sua-mentoria">
