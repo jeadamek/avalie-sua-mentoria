@@ -16,18 +16,18 @@
 
 ## ✏️ About
 
-This is a project developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat).
+This project was developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click [this link](https://github.com/jeadamek/explorer-rocketseat).
 
 In this challenge, it was requested to create a desktop form, the main goal was to work with different types of inputs, css-flex, pseudo-classes, and HTML form validation.
 
 I could practice and study:
 
 - Form structure;
-- Labels, Ids and inputs;
+- Labels, Ids, and inputs;
 - Fieldset and Legend;
-- Styling forms, inputs and buttons;
+- Styling forms, inputs, and buttons;
 - Pseudo-classes;
-- Validate inputs with html properties.
+- Validate inputs with HTML properties.
 
 The landing page can be seen in the image below:
 
@@ -58,3 +58,18 @@ To access the project's layout in Figma, click on the link below:
 🔗 [View on Figma](https://www.figma.com/file/K8UlETSJolkk9Aww95yZVf/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy))
 
 
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+
+## 🎯 Author
+
+<p>
+	Made by Jessica Adamek. Connect with me! 	
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/jessica-adamek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="A linkedin badge">
+  </a>  
+</div>
